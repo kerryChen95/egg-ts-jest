@@ -30,7 +30,6 @@ Debugger attached.
     at processTicksAndRejections (node:internal/process/task_queues:94:5)
 
 pid: 1308535
-hostname: bj-dl-048.autox.sz
 
  FAIL  test/app/controller/home.test.ts
   ● test/app/controller/home.test.ts › should GET /
@@ -59,7 +58,6 @@ hostname: bj-dl-048.autox.sz
     at processTicksAndRejections (node:internal/process/task_queues:94:5)
 
 pid: 1308528
-hostname: bj-dl-048.autox.sz
 
  FAIL  test/app/service/Test.test.ts
   ● test/app/service/Test.test.js › sayHi
