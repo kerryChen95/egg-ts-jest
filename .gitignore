@@ -10,6 +10,7 @@ logs/
 *.swp
 *.lock
 *.js
+!jest.config.js
 !.autod.conf.js
 
 app/**/*.js
